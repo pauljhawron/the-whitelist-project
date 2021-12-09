@@ -1,0 +1,15 @@
+{
+  "short_name": "The Whitelist Project",
+  "name": "The Whitelist Project is a collection of 999 whitelist tickets to be used for exclusive access to Solana NFT mints.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

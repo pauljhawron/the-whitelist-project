@@ -1,0 +1,52 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pinkslip"
+    },
+    {
+      "trait_type": "Text",
+      "value": "Blur"
+    },
+    {
+      "trait_type": "Ticket Type",
+      "value": "Priority"
+    },
+    {
+      "trait_type": "Stripe",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Stamp",
+      "value": "Wax"
+    },
+    {
+      "trait_type": "Extras",
+      "value": "Coffee Stain"
+    }
+  ],
+  "collection": {
+    "name": "The Whitelist Project",
+    "family": "Whitelist"
+  },
+  "description": "The Whitelist Project is a collection of 999 whitelist tickets to be used for exclusive access to Solana NFT mints.",
+  "name": "Whitelist Ticket #674",
+  "image": "674.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "GWgmxJZjtNMyLLuMj7y8WESFT8BxXU8cmVnWSwYujxxe",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "674.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "seller_fee_basis_points": 500,
+  "symbol": "WL"
+}
