@@ -5,7 +5,7 @@ import whitelistLogo from './assets/whitelist-logo.png';
 import CandyMachine from './CandyMachine';
 
 // Constants
-const TWITTER_HANDLE = 'pjhawron';
+const TWITTER_HANDLE = 'TheWLProjectNFT';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const DISCORD_LINK = "https://discord.gg/6ZNnzxxAER"
 
@@ -72,7 +72,7 @@ const App = () => {
       <div className="container">
         <div className="header-container">
           <p className="header">The Whitelist Project</p>
-          <p className="sub-text">The Whitelist Project is a collection of 999 whitelist tickets to be used for exclusive access to Solana NFT mints. 
+          <p className="sub-text">The Whitelist Project is a collection of 999 whitelist tickets to be used for exclusive access to Solana NFT mints, minting for 0.05 SOL.
             Join the Discord Server with <a href={DISCORD_LINK} target="_blank" rel="noreferrer">this link</a>.</p> 
           {!walletAddress && renderNotConnectedContainer()}
         </div>
